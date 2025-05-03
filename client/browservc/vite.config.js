@@ -5,6 +5,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: true, // This exposes the dev server to your local network and tunnels like Ngrok
-    port: 5173, // Optional: set your dev port explicitly
+    port: 1201, // Optional: set your dev port explicitly
   },
 });
